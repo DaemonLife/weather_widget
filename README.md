@@ -9,7 +9,7 @@ But you can use it everywhere with bash.
 
 ## Create a 'ow_key' file with a free Open Weather API key
 Create an account and get a free API: https://openweathermap.org/api \
-Create a file called 'ow_key' and place your key in it.
+Create a file called 'ow_key' nearby the script and place your key in it.
 
 ## Then run
 bash widget.sh [LOCATION]
